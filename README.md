@@ -13,6 +13,7 @@
 ### Dataset
 
 ![Colour Words Dataset](screenshots/table.jpg "Dataset")
+
 [colour-data.csv](./colour-data.csv)
 
 + The dataset contains 3950 labelled RGB values.
